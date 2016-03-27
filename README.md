@@ -4,7 +4,7 @@ Ruby Intro
 This 3-part homework gives some basic practice in Ruby as well as
 getting you accustomed to making testing a regular part of your workflow.
 
-It follows a fairly standard Ruby convention for codebases: the code
+It follows a faifdfrly standard Ruby convention for codebases: the code
 files are stored in `lib/` and the test files are stored in `spec/`.
 (We use the RSpec unit-testing framework; if we were using Ruby's default
 framework, known as `Test::Unit`, the test files would be under
